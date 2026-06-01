@@ -1,7 +1,7 @@
 ## English  
+![Separator with the flag of England](rs/England_flag.png)  
 
 # Julio Montero  
-![Separator with the flag of England](rs/England_flag.png)  
 
 Greetings!  
 
