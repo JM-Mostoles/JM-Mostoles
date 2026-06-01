@@ -1,6 +1,7 @@
 ## English  
 
 # Julio Montero  
+[Separator with the flag of England](rs/England_flag.png)  
 
 Greetings!  
 
@@ -35,6 +36,7 @@ My name is Julio Montero. I am a coder from the South of Madrid, Spain. I am an 
 ***
 
 ## Español  
+[Separator with the Spanish flag](rs/Spain_flag.png)  
 
 # Julio Montero  
 
